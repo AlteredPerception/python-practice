@@ -1,6 +1,7 @@
 # This is a better version of the FizzBuzz problem.
 # It checks each integer individually (3, 5, and I).
 # it uses string concatination to get results.
+# Site where I got the example. https://www.geeksforgeeks.org/fizz-buzz-implementation/#
 
 def FizzBuzz(n):
   # Empty list to add result
